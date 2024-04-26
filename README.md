@@ -1,3 +1,3 @@
 # CSGOESP
 
-### Educational purposes only
+This project is intended for educational purposes only.
