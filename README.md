@@ -1,1 +1,3 @@
 # CSGOESP
+
+### Educational purposes only
